@@ -1,5 +1,5 @@
 {
-    "name": "youngguns-nl/ODR_RestApi_Examples",
+    "name": "youngguns-nl/odr-restapi",
     "description" : "PHP library for ODR API",
     "require": {
         "php": ">=5.3.0"
